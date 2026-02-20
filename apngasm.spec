@@ -2,7 +2,7 @@ Summary:	APNG Assembler - create APNG animation from PNG/TGA image sequence
 Summary(pl.UTF-8):	APNG Assembler - tworzenie animacji APNG z sekwencji obrazów PNG/TGA
 Name:		apngasm
 Version:	2.91
-Release:	1
+Release:	2
 License:	Zlib (BSD-like)
 Group:		Applications/Graphics
 Source0:	http://downloads.sourceforge.net/apngasm/%{name}-%{version}-src.zip
